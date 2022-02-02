@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Designer, Dreamer, Realizer. Designing the future through technology.
+Hello everyone, Ardie is a half designer & half developer. The thinker, the dreamer, and the enabler. Aspire to design & develop a better future through technology.
 
-Hi, I'm Ardie. I'm an enthusiast and highly interested in Product Design (UX and UI), and I believe in design as a bridge to solve human problems. I strongly believe in human-centered design that's compelling and purposeful. I have a great understanding of Product Design, Technology, and Business that goes functional, measurable, and reliable.
+Ardie is currently a generalist, aiming to be a specialist in every field he ventures into and highly passionate in everything he does. Ardie is currently seeking new opportunities and roles relating to Front End Web Development and Product Management to improve his knowledge further and expand his network.
 
-I'm a designer with a background in engineering; hence I can think systematically and in an abstract or high-level view. I also like to map plans and set clear goals in advance to find the best decision and spend my time most effectively.
+View Ardie's digital footprint 👉 https://znap.link/ardiewijaya
 
-I believe that every time problem arises, there will also be solutions.
+Ardie is currently in his final year pursuing a bachelor's degree in Computer Science from Bina Nusantara University (Binus).
 
-View my digital footprint 👉 https://znap.link/ardiewijaya
+Ardie also loves to talk about: Trading, Investment, Entrepreneurship, and some thought-provoking ideas.
+Hit me up 👊
 
-I'm currently in my final year pursuing a bachelor's degree in Computer Science from Bina Nusantara University (Binus).
