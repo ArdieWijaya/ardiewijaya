@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello everyone, Ardie is a half designer & half developer. The thinker, the dreamer, and the enabler. Aspire to design & develop a better future through technology.
 
-Ardie is currently a generalist, aiming to be a specialist in every field he ventures into and highly passionate in everything he does. Ardie is currently seeking new opportunities and roles relating to Front End Web Development and Product Management to improve his knowledge further and expand his network.
+Ardie is currently a generalist, aiming to be a specialist in every field he ventures into, highly passionate in everything he does and about learning new things. Ardie is currently seeking new opportunities and roles relating to Front End Web Development and Product Management to improve his knowledge further and expand his network.
 
 View Ardie's digital footprint 👉 https://znap.link/ardiewijaya
 
