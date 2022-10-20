@@ -21,8 +21,6 @@ Ardie is currently a generalist, aiming to be a specialist in every field he ven
 
 View Ardie's digital footprint 👉 https://znap.link/ardiewijaya
 
-Ardie is currently in his final year pursuing a bachelor's degree in Computer Science from Bina Nusantara University (Binus).
-
 Ardie also loves to talk about: Trading, Investment, Entrepreneurship, and some thought-provoking ideas.
 Hit me up 👊
 
