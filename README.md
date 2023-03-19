@@ -21,3 +21,7 @@ Ardie is currently a generalist, aiming to be a specialist in every field he ven
 
 View Ardie's digital footprint 👉 https://github.com/ArdieWijaya
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardiewijaya&theme=algolia&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardiewijayalayout=compact)](https://github.com/ardiewijaya/github-readme-stats)
+
