@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello everyone, Ardie is half a designer & half a developer. The thinker, the dreamer, and the enabler. Aspire to design & develop a better future through technology.
+Hello everyone! I am half a designer & half a developer. Passionate about designing & developing products that make a meaningful impact on people's lives.
 
-Ardie is currently a generalist, aiming to be a specialist in every field he ventures into, and highly passionate in everything he does, and about learning new things. Ardie is seeking new opportunities and roles relating to Front End Web Development to further improve his knowledge and expand his network.
+I have experience making digital products (web & mobile), previously working as a UI/UX Designer and currently as a Product Manager. I translate problems into requirements and solutions. Like to think critically, strategically, efficiently, and based on facts. 
 
-View Ardie's digital footprint 👉 https://github.com/ArdieWijaya
+I enjoy coding from time to time. I like to learn and try new things. I am seeking new opportunities and roles relating to web development to improve my knowledge and expand my network. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardiewijaya&theme=algolia&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardiewijaya&layout=compact)
+
+----------
+
+ps: I am also interested in finance, capital market, and economics.
