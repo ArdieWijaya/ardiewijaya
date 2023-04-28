@@ -28,4 +28,4 @@ I enjoy coding from time to time. I like to learn and try new things. I am seeki
 ----------
 
 
-ps: I am also interested in finance, economics, capital market, and entrepreneurship.
+ps: I am also interested in finance, economics, and the capital market.
