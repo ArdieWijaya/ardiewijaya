@@ -21,7 +21,7 @@ I have experience making digital products (web & mobile), previously working as 
 
 I enjoy coding from time to time. I like to learn and try new things. I am seeking new opportunities and roles relating to web development to improve my knowledge and expand my network. Striving to learn and deliver high-quality, scalable, predictable, and high-performance web applications with great user experience.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardiewijaya&theme=algolia&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardiewijaya&theme=algolia&show_icons=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardiewijaya&layout=compact)
 
