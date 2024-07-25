@@ -15,20 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello everyone! I am half a developer & half a designer. Passionate about designing & developing products that make a meaningful impact on people's lives.
-
-I have experience making digital products (web & mobile), previously working as a UI/UX Designer, Product Manager, and currently as a Backend Developer. I translate problems into requirements and solutions. Like to think critically, strategically, efficiently, and based on facts. 
-
-I enjoy coding from time to time. I like to learn and try new things. I am seeking new opportunities and roles relating to web development to improve my knowledge and expand my network. Striving to learn and deliver high-quality, scalable, predictable, and high-performance web applications with great user experience.
-
-----------
-
-ps: I am also interested in finance, capital market, and economics.
+Greetings! I am a versatile professional with a background in computer science, UI/UX design, and product management. Currently serving as a Backend Developer at PT Bank Central Asia Tbk (BCA), I excel in translating vision into impactful digital products. Proficient in working within dynamic environments, I am always seeking opportunities to enhance my knowledge and skills. Feel free to connect or DM for any inquiries.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardiewijaya&theme=algolia&show_icons=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardiewijaya&layout=compact)
 
-----------
-
-ps: I am also interested in finance, capital market, and economics. 
