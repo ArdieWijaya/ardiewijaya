@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Greetings! I am a versatile professional with a background in computer science, UI/UX design, and product management. Currently serving as a Backend Developer at PT Bank Central Asia Tbk (BCA), I excel in translating vision into impactful digital products. Proficient in working within dynamic environments, I am always seeking opportunities to enhance my knowledge and skills. Feel free to connect or DM for any inquiries.
+Greetings!
+I am a junior developer focused on enhancing my skills in digital product development. I'm passionate about exploring new technologies and challenges that keep me engaged and motivated.
 
+With experience in cross-functional roles, I bring a well-rounded perspective to the table. While I may not be perfect, I am continuously striving to learn and grow from every experience.
+
+Feel free to connect or reach out via DM for any inquiries! 😀
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardiewijaya&theme=algolia&show_icons=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardiewijaya&layout=compact)
