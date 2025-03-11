@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Greetings!
-I am a junior developer focused on enhancing my skills in digital product development. I'm passionate about exploring new technologies and challenges that keep me engaged and motivated.
+I am a developer focused on enhancing my skills in digital product development. I'm passionate about exploring new technologies and challenges that keep me engaged and motivated.
 
 With experience in cross-functional roles, I bring a well-rounded perspective to the table. While I may not be perfect, I am continuously striving to learn and grow from every experience.
 
